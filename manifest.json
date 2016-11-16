@@ -9,6 +9,14 @@
   },
   "icons": { "128": "icons/icon128.png" },
   "default_locale": "en",
+  
+
+  "applications": {
+    "gecko": {
+      "id": "wjohnson@oberlin.edu"
+    }
+  },
+
   "content_scripts": [
     {
       "matches": [
